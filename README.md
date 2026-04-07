@@ -12,6 +12,7 @@ No momento, este repositório contém a seguinte entrega:
 
 - **Primeira versão do Capítulo 1**, disponível no arquivo `1primeira_versao_capitulo_1`
 
+
 ## Sobre o Projeto
 
 O projeto em desenvolvimento está voltado para a área de **Arquitetura Empresarial** e **Arquitetura de Software**, aplicado ao contexto de uma empresa fictícia do setor de tecnologia e energia.
