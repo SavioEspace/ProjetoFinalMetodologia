@@ -1,0 +1,13 @@
+
+1.1 Justificativa
+A crescente dependência de sistemas de informação em organizações do setor de tecnologia e energia exige maior integração entre processos de negócio, informações operacionais e recursos tecnológicos. Em empresas que atuam com contratos e serviços tecnológicos, a ausência de uma estrutura arquitetural bem definida pode gerar fragmentação informacional, retrabalho, dificuldades de monitoramento e limitações no apoio à tomada de decisão. Nesse cenário, torna-se relevante investigar como a combinação entre arquitetura empresarial e arquitetura de software pode contribuir para maior alinhamento entre negócio e tecnologia da informação.
+Sob a dimensão tecnológica, o estudo se justifica pela necessidade de estruturar melhor a organização dos sistemas, dados e serviços envolvidos na gestão contratual e operacional. Sob a dimensão organizacional, a proposta busca apoiar gestores e equipes técnicas no acompanhamento mais eficiente das atividades e contratos. Já sob a dimensão acadêmica, o trabalho contribui ao aplicar conceitos de arquitetura empresarial e arquitetura de software em um contexto de Sistemas de Informação, articulando teoria e prática em uma proposta viável e coerente com a formação do curso.
+1.2 Objetivo Geral
+Desenvolver e validar uma proposta de arquitetura empresarial e de software para apoiar a gestão de contratos e serviços tecnológicos em uma empresa fictícia do setor de tecnologia e energia.
+1.3 Objetivos Específicos
+Analisar o processo atual de gestão de contratos e serviços da empresa fictícia.
+Identificar os principais problemas de integração e acompanhamento das informações operacionais.
+Modelar uma proposta de arquitetura empresarial alinhada ao contexto organizacional estudado.
+Projetar a arquitetura de software da solução proposta.
+Desenvolver um sistema web funcional com escopo delimitado para validação da proposta.
+Avaliar a contribuição da solução para o acompanhamento operacional e apoio à gestão.
